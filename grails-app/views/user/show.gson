@@ -1,0 +1,7 @@
+import memberdirectory.User
+
+model {
+	User user
+}
+
+json tmpl.user(user)

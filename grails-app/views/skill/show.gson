@@ -1,0 +1,7 @@
+import memberdirectory.Skill
+
+model {
+	Skill skill
+}
+
+json tmpl.skill(skill)
